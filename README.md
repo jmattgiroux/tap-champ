@@ -7,6 +7,7 @@ by recording the total number of times they tap the phone, as well as their aver
 If you have any questions, comments, or concerns about this repository or the projects/code it contains, I can be contacted at:
 
 jmattgiroux@gmail.com
+
 Contents:
 
 Environment: This is a description of the environment this repository's code was created in. 
